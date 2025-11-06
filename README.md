@@ -12,7 +12,7 @@
 
        
 ## 📌 Education 		       		
-- Master's Degree, Statistics	| University of Milano-Bicocca (_Oct 2022 - _Oct 2025_)             		
+- Master's Degree, Statistics	| University of Milano-Bicocca (_Oct 2022 - Oct 2025_)             		
 - Bachelor's Degree, Statistics | University of Milano-Bicocca (_Oct 2019 - Sept 2022_)
 
 
